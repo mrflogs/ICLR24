@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/caltech101.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/oxford_pets.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/stanford_cars.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/oxford_flowers.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/food101.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/fgvc.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/sun397.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/dtd.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/eurosat.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/ucf101.yaml
+CUDA_VISIBLE_DEVICES=5 python main_few_shots.py --config configs/few_shots/imagenet.yaml

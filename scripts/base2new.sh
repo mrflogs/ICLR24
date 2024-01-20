@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/caltech101.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/oxford_pets.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/stanford_cars.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/oxford_flowers.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/food101.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/fgvc.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/sun397.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/dtd.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/eurosat.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/ucf101.yaml
+CUDA_VISIBLE_DEVICES=1 python main_base2new.py --config configs/base2new/imagenet.yaml

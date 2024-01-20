@@ -1,0 +1,10 @@
+# ------ root_path/dataset_name ------
+root_path: 'datasets'
+
+# ------ Basic Config ------
+dataset: 'caltech101'
+shots: 16
+backbone: 'ViT-B/16'
+
+subsample_classes: 'all'
+augment_epoch: 10
