@@ -16,7 +16,7 @@ conda install pytorch torchvision cudatoolkit
 ```
 
 ### Dataset
-Follow DATASET.md to install ImageNet and other datasets referring to CoOp.
+Follow [DATASET.md](DATASET.md) to install ImageNet and other datasets referring to CoOp.
 
 ## Get Started
 ### Configs
@@ -35,6 +35,12 @@ For base-to-new generalization:
 CUDA_VISIBLE_DEVICES=0 python main_base2new.py --config configs/base2new/dataset.yaml
 ```
 
+For out-of-distribution generalizaiton:
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python main_base2new.py --config configs/robustness/imagenet_rn50.yaml
+```
+
 
 
 ## Acknowledgement
@@ -42,11 +48,11 @@ CUDA_VISIBLE_DEVICES=0 python main_base2new.py --config configs/base2new/dataset
 This repo benefits from [CLIP](https://github.com/openai/CLIP), [CoOp,](https://github.com/KaiyangZhou/Dassl.pytorch) and [SHIP](https://github.com/mrflogs/SHIP). Thanks for their wonderful work.
 
 ## Citation
-```
+```latex
 @inproceedings{wang2024baseline,
   title={A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation},
-  author={Zhengbo Wang and Jian Liang and Lijun Sheng and Ran He and Zilei Wang and Tieniu Tan},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  author={Wang, Zhengbo and Liang, Jian and Sheng, Lijun and He, Ran and Wang, Zilei and Tan, Tieniu},
+  booktitle={The Twelfth International Conference on Learning Representations (ICLR)},
   year={2024}
 }
 ```
