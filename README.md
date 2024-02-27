@@ -38,7 +38,7 @@ CUDA_VISIBLE_DEVICES=0 python main_base2new.py --config configs/base2new/dataset
 For out-of-distribution generalizaiton:
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python main_base2new.py --config configs/robustness/imagenet_rn50.yaml
+CUDA_VISIBLE_DEVICES=0 python main_robustness.py --config configs/robustness/imagenet_rn50.yaml
 ```
 
 
