@@ -23,7 +23,7 @@ Follow [DATASET.md](DATASET.md) to install ImageNet and other datasets referring
 The running configurations can be modified in `configs/setting/dataset.yaml`, including evaluation setting, shot numbers, visual encoders, and hyperparamters. 
 
 ### Numerical Results
-We provide  **numerical results** in few-shot classification in Figure 1 at exp.log.
+We provide  **numerical results** in few-shot classification in Figure 1 at [exp.log](exp.log).
 
 ### Running
 For few-shot classification:
