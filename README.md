@@ -3,7 +3,7 @@
 <p align='center' style="text-align:center;font-size:1.25em;">
     <a href="https://zhengbo.wang/" target="_blank" style="text-decoration: none;">Zhengbo Wang<sup>1,2</sup></a>&nbsp;,&nbsp;
     <a href="https://liangjian.xyz/" target="_blank" style="text-decoration: none;">Jian Liang<sup>2,3†</sup></a>&nbsp;,&nbsp;
-    <a href="https://tomsheng21.github.io/" target="_blank" style="text-decoration: none;">Lijun Sheng<sup>1,2</sup></a>
+    <a href="https://tomsheng21.github.io/" target="_blank" style="text-decoration: none;">Lijun Sheng<sup>1,2</sup></a>&nbsp;,&nbsp;
     <a href="https://sites.google.com/site/pinyuchenpage" target="_blank" style="text-decoration: none;">Ran He<sup>2,3</sup></a>&nbsp;,&nbsp;
     <a href="https://www.princeton.edu/~pmittal/" target="_blank" style="text-decoration: none;">Zilei Wang<sup>1</sup></a>&nbsp;,&nbsp; 
 	<a href="https://www.peterhenderson.co/" target="_blank" style="text-decoration: none;">Tieniu Tan<sup>4</sup></a>&nbsp;&nbsp;
@@ -13,6 +13,7 @@
 <sup>3</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences&nbsp;&nbsp;&nbsp;
 <sup>4</sup>Nanjing University 
 </p>
+
 
 <p align='center';>
 <b>
