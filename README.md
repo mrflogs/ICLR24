@@ -4,7 +4,7 @@
     <a href="https://zhengbo.wang/" target="_blank" style="text-decoration: none;">Zhengbo Wang<sup>1,2</sup></a>&nbsp;,&nbsp;
     <a href="https://liangjian.xyz/" target="_blank" style="text-decoration: none;">Jian Liang<sup>2,3†</sup></a>&nbsp;,&nbsp;
     <a href="https://tomsheng21.github.io/" target="_blank" style="text-decoration: none;">Lijun Sheng<sup>1,2</sup></a>&nbsp;,&nbsp;
-    <a href="https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Ran He<sup>2,3</sup></a>&nbsp;,&nbsp;
+    <a href="https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Ran He<sup>2,3</sup></a>&nbsp;,&nbsp; 
     <a href="http://staff.ustc.edu.cn/~zlwang/index_en.html" target="_blank" style="text-decoration: none;">Zilei Wang<sup>1</sup></a>&nbsp;,&nbsp; 
 	<a href="https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Tieniu Tan<sup>4</sup></a>&nbsp;&nbsp;
 	<br>
